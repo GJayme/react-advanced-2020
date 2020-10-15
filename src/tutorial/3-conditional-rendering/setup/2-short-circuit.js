@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-// short-circuit evaluation -> quando usamos || ou && no return de uma função
+// short-circuit evaluation -> quando usamos || ou && dentro return de uma função
 // ternary operator valorATestar ? se for verdade : senao
 
 const ShortCircuit = () => {
